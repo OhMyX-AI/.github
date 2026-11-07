@@ -1,4 +1,4 @@
-<p align="center"><img src="https://ohmyx.ai/logo-512.png" alt="OhMyX" width="120" height="120"></p>
+<p align="center"><img src="logo.png" alt="OhMyX" width="120" height="120"></p>
 
 <h1 align="center">OhMyX</h1>
 
